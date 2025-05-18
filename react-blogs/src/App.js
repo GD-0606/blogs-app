@@ -15,7 +15,7 @@ function App() {
           setshow(!show);
         }}
       >
-        view blogs
+        View blogs
       </button>
       {show && <Viewblogs />}
     </div>
